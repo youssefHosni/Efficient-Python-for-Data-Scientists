@@ -11,6 +11,6 @@ Learn how to write efficient python code as a data scientist
 6. Stop Looping Through Pandas DataFrames & Do This Instead [[Article]() | [Notebook](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Stop_Looping_Through_Pandas_DataFrames_%26_Do_This%C2%A0Instead.ipynb) ]
 7. Selecting & Replacing Values In Pandas DataFrame  Effectively [[Article](https://levelup.gitconnected.com/selecting-replacing-values-in-pandas-dataframe-effectively-69c5cee9f526?sk=1abbd5bff836d0ddb445fd5c8bf6ea74) | [Notebook](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Selecting_%26_Replacing_Values_In_Pandas_DataFrame_Effectively.ipynb)  ] 
 8. How To Use .groupby() Effectively For Data Transformation As A Data Scientist [[Article]() | [Notebook]()]
-9.  
+9. 20 Pandas Functions for 80% of your Data Science Tasks [[Article](https://levelup.gitconnected.com/20-pandas-functions-for-80-of-your-data-science-tasks-b610c8bfe63c?sk=3f73cdb37d52db86caaa0e7d52852c64) | [Notebook]()]
 10. Data Exploration Becomes Easier & Better With Pandas Profiling [[Article]() | [Notebook]()]
 
