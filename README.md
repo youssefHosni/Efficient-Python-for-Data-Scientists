@@ -13,4 +13,5 @@ Learn how to write efficient python code as a data scientist
 8. How To Use .groupby() Effectively For Data Transformation As A Data Scientist [[Article]() | [Notebook]()]
 9. 20 Pandas Functions for 80% of your Data Science Tasks [[Article](https://levelup.gitconnected.com/20-pandas-functions-for-80-of-your-data-science-tasks-b610c8bfe63c?sk=3f73cdb37d52db86caaa0e7d52852c64) | [Notebook]()]
 10. Data Exploration Becomes Easier & Better With Pandas Profiling [[Article](https://levelup.gitconnected.com/data-exploration-becomes-easier-better-with-pandas-profiling-2d527a612bef?sk=e052c35b0a34de49b18a28526513f754) | [Notebook](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Data%20Exploration%20Becomes%20Easier%20%26%20Better%20With%20Pandas%20Profiling.md)]
+11. Make Your Pandas Code 1000 Times Faster With This Trick [Article]() [Notebook](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Make_Your_Pandas_Code_1000_Times_Faster_With_This%C2%A0Trick.ipynb) 
 
