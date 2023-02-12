@@ -1,4 +1,5 @@
-Efficient Python for Data Scientists
+## Efficient Python for Data Scientists ##
+
 Learn how to write efficient python code as a data scientist
 
 1. How To Write Python Clean Code [[Article](https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a?sk=84b51a685bc2981d85ac5f7346eeb4bf)]
