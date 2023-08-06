@@ -12,7 +12,7 @@ Learn how to write efficient Python code as a data scientist.
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Efficient-Python-for-Data-Scientists.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Efficient-Python-for-Data-Scientists/stargazers/)
 
-![alt_text]()
+![alt_text](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/1_XNhMJunrlY_Xfei8D8sPeg.png)
 
 ### Efficient Python ###
 
